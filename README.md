@@ -1,4 +1,4 @@
-# Tetris.demo
+# Tetris-likes.demo
 # Tetris SFML
 
 This is a simple Tetris game built with SFML in C++. It includes basic game mechanics such as block movement, rotation, and line clearing.
