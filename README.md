@@ -1,4 +1,4 @@
-# Block_fall_delete.demo
+# Block_fall_delete.demo This code is MacOS Version.
 # Block_fall_delete SFML
 
 This is a simple Block fall delete game built with SFML in C++. It includes basic game mechanics such as block movement, rotation, and line clearing.
